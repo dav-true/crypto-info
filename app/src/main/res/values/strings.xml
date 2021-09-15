@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CryptocurrencyAppYT</string>
+    <string name="temp_string">Material Typography styles are available in the MaterialTheme, just add them to the Text composables.</string>
+</resources>
